@@ -1,0 +1,11 @@
+{
+  "name": "node-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Caster22/node.js.git",
+  "author": "Michał Kopacz <kopaczmichal093@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
